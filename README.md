@@ -1,4 +1,4 @@
-👋 Hi, I’m @YourUsername  
+👋 Hi, I’m Dilaksha Lakshan
 - 👀 I’m interested in software development, AI, and open-source projects.  
 - 🌱 I’m currently learning full-stack web development and machine learning.  
 - 💞️ I’m looking to collaborate on innovative projects that make a positive impact.  
