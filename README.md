@@ -38,7 +38,7 @@ Hi, I'm Dilaksha Lakshan, a passionate developer with expertise in crafting inno
 
 ## 🎥 Featured Projects
 ### Project 1: Amazing Delivery App 📦
-[![Amazing Delivery App](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/dQw4w9WgXcQ "Watch on YouTube")  
+[![Amazing Delivery App](https://img.youtube.com/vi/dQw4w9W.jpg)](https://youtu.be/dQw4w9W "Watch on YouTube")  
 A cutting-edge delivery app designed to streamline logistics and improve customer experience. [View More](https://github.com/DilakshaLakshan/amazing-delivery-app)
 
 ### Project 2: Dynamic Portfolio Website 🌐
